@@ -1,8 +1,9 @@
 import customtkinter as ctk
 from PIL import Image, ImageTk
 from math import pi
-from services.calculator_svc import exibir_dados, deletar_dados, processar_resultado, exibir_dados_digitados
-from config.paths import ASSETS_IMAGES
+from src.services.calculator_svc import exibir_dados, deletar_dados, processar_resultado, exibir_dados_digitados
+from src.config.paths import ASSETS_IMAGES
+
 
 def calculadora():
 

@@ -1,4 +1,4 @@
-# Calculadora [Moderna]
+# Calculator [v2.1]
 
 Calculadora desktop feita em Python com [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter), capaz de avaliar expressões matemáticas completas em uma única linha (ex: `n1 + n2 × (n3 − n4)`), em vez de processar uma operação por vez como uma calculadora tradicional.
 

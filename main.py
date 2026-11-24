@@ -1,4 +1,4 @@
-from views.calculator_vws import calculadora
+from src.views.calculator_vws import calculadora
 
 
 def main():
